@@ -1,0 +1,13 @@
+STASK = pile
+
+FILO or LIFO
+
+push() − Pushing (storing) an element on the stack.
+
+pop() − Removing (accessing) an element from the stack.
+
+peek() − get the top data element of the stack, without removing it.
+
+isFull() − check if stack is full.
+
+isEmpty() − check if stack is empty.
